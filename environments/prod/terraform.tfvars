@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="dpduk-t-operations-portal-d1-tfstate"
